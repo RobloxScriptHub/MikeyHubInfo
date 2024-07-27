@@ -1,5 +1,3 @@
 return {
-"You're Banned From Using MikeHub.",
-"You Can Appeal By Contacting Mods In The Discord.",
-"Your Hwid: " .. game:GetService("RbxAnalyticsService"):GetClientId()
+"8A13733A-09BC-4ED8-82D2-E823BC060651"
 }
