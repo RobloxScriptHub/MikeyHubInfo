@@ -1,1 +1,4 @@
-print("HelloHello_
+return {
+    "FreeKey": "thisisfreekey",
+    "OwnerKey": "thisisownerkey"
+}
