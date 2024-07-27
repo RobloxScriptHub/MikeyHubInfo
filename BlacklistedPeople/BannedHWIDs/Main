@@ -1,3 +1,4 @@
 return {
-	Player1 = "Test"
+	Player1 = "Test",
+	Player2 = "Test2"
 }
