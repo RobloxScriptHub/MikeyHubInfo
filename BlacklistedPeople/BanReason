@@ -1,5 +1,5 @@
-local banMessage = {
-    "You're Banned From Using MikeHub.",
-    "You Can Appeal By Contacting Mods In The Discord.",
-    "Your Hwid: " .. game:GetService("RbxAnalyticsService"):GetClientId()
+return {
+"You're Banned From Using MikeHub.",
+"You Can Appeal By Contacting Mods In The Discord.",
+"Your Hwid: " .. game:GetService("RbxAnalyticsService"):GetClientId()
 }
