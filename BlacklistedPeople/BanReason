@@ -1,3 +1,3 @@
 return {
-"HWID : "..game:GetService("RbxAnalyticsService"):GetClientId()
+	"You're Banned From MikeyHub, If You Believe This is A Mistake\nContact jakefromjakesfarm.\HWID: "..HWID
 }
