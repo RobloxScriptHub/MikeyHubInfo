@@ -1,4 +1,8 @@
 return {
-["IJumpToTheSkyy"] = "8A13733A-09BC-4ED8-82D2-E823BC060651" -- Banned for scamming
-["Yotes686"] = "NoHwidFound" -- Banned for trying to get premium for free.
+    ["IJumpToTheSkyy"] = {
+        ["8A13733A-09BC-4ED8-82D2-E823BC060651"] = "Scamming"
+    },
+    ["Yotes686"] = {
+        ["NoHwidFound"] = "Trying To Get Premium For Free"
+    }
 }
