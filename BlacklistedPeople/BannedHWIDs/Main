@@ -4,5 +4,8 @@ return {
     },
     ["Yotes686"] = {
         ["NoHwidFound"] = "Trying To Get Premium For Free"
+    },
+    ["MikeyHubBESTHUB"] = {
+        ["NoHwidFound"] = "Being A BITCH NIGGA"
     }
 }
