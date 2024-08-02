@@ -1,3 +1,4 @@
 return {
-    ["Owner"] = "8A13733A-09BC-4ED8-82D2-E823BC060651",
+    ["Owner"] = "test",
+    ["Tester"] = "8A13733A-09BC-4ED8-82D2-E823BC060651",
 }
