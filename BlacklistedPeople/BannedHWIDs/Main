@@ -11,9 +11,9 @@ local playerData = {
         PlayerHWID = "NoHwidFound",
         BanReason = "Banned for being weird, like ty but youre kinda weird for that ngl"
     },
-   ["loveonloveonme144"] = {
-        PlayerHWID = "9AAC35F7-19B5-4B29-89B1-562D05B0AECB",
-        BanReason = "i am so sorry"
+   ["limonadisnubrante"] = {
+        PlayerHWID = "8e3362e3-c6c5-4f9a-9bd2-2250b9eb84c9",
+        BanReason = "You're banned for trying to bypass the key system"
     }
 }
 
