@@ -1,5 +1,16 @@
-return {
-["IJumpToTheSkyy"] = "8A13733A-09BC-4ED8-82D2-E823BC060651", -- Banned for scamming
-["Yotes686"] = "NoHwidFound", -- Banned for trying to get premium for free.
-["YourMad_CuzYourBad"] = "NoHwidFound" -- banned for cracking
+local playerData = {
+    ["IJumpToTheSkyy"] = {
+        PlayerHWID = "8A13733A-09BC-4ED8-82D2-E823BC060651",
+        BanReason = "Banned For HACKING"
+    },
+    ["Yotes686"] = {
+        PlayerHWID = "NoHwidFound",
+        BanReason = "You Can't Get Premium For Free Dumbass"
+    },
+    ["YourMad_CuzYourBad"] = {
+        PlayerHWID = "NoHwidFound",
+        BanReason = "Banned for being weird, like ty but youre kinda weird for that ngl"
+    }
 }
+
+return playerData
