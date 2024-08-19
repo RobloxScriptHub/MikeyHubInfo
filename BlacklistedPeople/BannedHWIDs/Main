@@ -11,9 +11,9 @@ local playerData = {
         PlayerHWID = "NoHwidFound",
         BanReason = "Banned for being weird, like ty but youre kinda weird for that ngl"
     },
-   ["loveonloveonme144"] = {
+   ["NoYetFound"] = {
         PlayerHWID = "NoHwidFound",
-        BanReason = "yeah youre bannesd"
+        BanReason = "NoReasonGiven"
     }
 }
 
