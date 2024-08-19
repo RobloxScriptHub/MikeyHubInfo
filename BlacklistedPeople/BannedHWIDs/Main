@@ -12,8 +12,8 @@ local playerData = {
         BanReason = "Banned for being weird, like ty but youre kinda weird for that ngl"
     },
    ["NoYetFound"] = {
-        PlayerHWID = "NoHwidFound",
-        BanReason = "NoReasonGiven"
+        PlayerHWID = "9AAC35F7-19B5-4B29-89B1-562D05B0AECB",
+        BanReason = "You're banned for testing purposes, youll be unban soon haha, um like be cool th"
     }
 }
 
