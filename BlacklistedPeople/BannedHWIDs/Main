@@ -14,6 +14,10 @@ local playerData = {
    ["cjeijddjdidicjeijddjdidi"] = {
         PlayerHWID = "nonefound",
         BanReason = "Banned for being in a leaking server that involves getting mikeyhub for free (unappealable)"
+    },
+   ["xazrat3333"] = {
+        PlayerHWID = "c537e1ad-dc54-4f06-9037-7ab78d362d8f",
+        BanReason = "Banned for threating to whitelist mikeyhub. (unappealable)"
     }
 }
 
