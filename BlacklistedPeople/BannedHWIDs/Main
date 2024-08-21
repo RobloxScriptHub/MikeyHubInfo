@@ -17,7 +17,7 @@ local playerData = {
     },
    ["xazrat3333"] = {
         PlayerHWID = "c537e1ad-dc54-4f06-9037-7ab78d362d8f",
-        BanReason = "Banned for threating to whitelist mikeyhub. (unappealable)"
+        BanReason = "Banned for threating to crack mikeyhub. (unappealable)"
     }
 }
 
