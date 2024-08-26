@@ -18,6 +18,10 @@ local playerData = {
    ["xazrat3333"] = {
         PlayerHWID = "c537e1ad-dc54-4f06-9037-7ab78d362d8f",
         BanReason = "Banned for threating to crack mikeyhub. (unappealable)"
+    },
+   ["ShutYoMoufBro"] = {
+        PlayerHWID = "8f613534-4ffc-4d2e-9b28-41a98947b2b7",
+        BanReason = "Banned for bypassing mikeyhub (unappealable, this was automated by system, you cannot appeal this)"
     }
 }
 
