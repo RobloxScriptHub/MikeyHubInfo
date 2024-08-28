@@ -18,6 +18,10 @@ local playerData = {
    ["xazrat3333"] = {
         PlayerHWID = "c537e1ad-dc54-4f06-9037-7ab78d362d8f",
         BanReason = "Banned for threating to crack mikeyhub. (unappealable)"
+    },
+   ["NoUserfound"] = {
+        PlayerHWID = "E80299C0-C706-4466-942A-218FFBD9352E",
+        BanReason = "banned for asking for a cracked version of mikeyhub, specifically gunfight arena, you was seen asking if mikeyhub crack was working and you’re in the server, this ban is unappealable and you won’t be able to use mikeyhub ever again"
     }
 }
 
